@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Environment Variables
+.env
+
+# Local Data (Optional - keep if you want to commit sample data, exclude if you want fresh start)
+emails.json
+drafts.json
+prompts.json
+
+# IDE
+.vscode/
+.idea/
