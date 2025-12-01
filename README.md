@@ -2,6 +2,7 @@
 
 A prompt-driven AI-powered email management system built with Streamlit that helps you categorize emails, extract action items, and generate professional replies using LLM technology.
 
+Try it out : https://email-appuctivity-agent-vuppalajashwanth-22bce0569-juhnjjutulu.streamlit.app/
 ## 🎯 Features
 
 ### Phase 1: Email Ingestion & Knowledge Base
